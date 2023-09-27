@@ -1,0 +1,155 @@
+[
+    {
+      "attacker_king": "King A",
+      "defender_king": "King B",
+      "region": "Region X",
+      "name": "Battle 1",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 100
+    },
+    {
+      "attacker_king": "King C",
+      "defender_king": "King D",
+      "region": "Region Y",
+      "name": "Battle 2",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 75
+    },
+    {
+      "attacker_king": "King A",
+      "defender_king": "King E",
+      "region": "Region Z",
+      "name": "Battle 3",
+      "attacker_outcome": "win",
+      "battle_type": "Pitched battle",
+      "defender_size": 120
+    },
+    {
+      "attacker_king": "King F",
+      "defender_king": "King G",
+      "region": "Region P",
+      "name": "Battle 4",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 80
+    },
+    {
+      "attacker_king": "King H",
+      "defender_king": "King I",
+      "region": "Region Q",
+      "name": "Battle 5",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 90
+    },
+    {
+      "attacker_king": "King J",
+      "defender_king": "King K",
+      "region": "Region R",
+      "name": "Battle 6",
+      "attacker_outcome": "win",
+      "battle_type": "Pitched battle",
+      "defender_size": 110
+    },
+    {
+      "attacker_king": "King A",
+      "defender_king": "King L",
+      "region": "Region X",
+      "name": "Battle 7",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 95
+    },
+    {
+      "attacker_king": "King M",
+      "defender_king": "King N",
+      "region": "Region Y",
+      "name": "Battle 8",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 70
+    },
+    {
+      "attacker_king": "King O",
+      "defender_king": "King P",
+      "region": "Region Z",
+      "name": "Battle 9",
+      "attacker_outcome": "win",
+      "battle_type": "Pitched battle",
+      "defender_size": 105
+    },
+    {
+      "attacker_king": "King Q",
+      "defender_king": "King R",
+      "region": "Region P",
+      "name": "Battle 10",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 85
+    },
+    {
+      "attacker_king": "King S",
+      "defender_king": "King T",
+      "region": "Region Q",
+      "name": "Battle 11",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 75
+    },
+    {
+      "attacker_king": "King U",
+      "defender_king": "King V",
+      "region": "Region R",
+      "name": "Battle 12",
+      "attacker_outcome": "win",
+      "battle_type": "Pitched battle",
+      "defender_size": 115
+    },
+    {
+      "attacker_king": "King W",
+      "defender_king": "King X",
+      "region": "Region X",
+      "name": "Battle 13",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 92
+    },
+    {
+      "attacker_king": "King Y",
+      "defender_king": "King Z",
+      "region": "Region Y",
+      "name": "Battle 14",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 68
+    },
+    {
+      "attacker_king": "King A",
+      "defender_king": "King B",
+      "region": "Region Z",
+      "name": "Battle 15",
+      "attacker_outcome": "win",
+      "battle_type": "Pitched battle",
+      "defender_size": 102
+    },
+    {
+      "attacker_king": "King C",
+      "defender_king": "King D",
+      "region": "Region P",
+      "name": "Battle 16",
+      "attacker_outcome": "win",
+      "battle_type": "Siege",
+      "defender_size": 78
+    },
+    {
+      "attacker_king": "King E",
+      "defender_king": "King F",
+      "region": "Region Q",
+      "name": "Battle 17",
+      "attacker_outcome": "loss",
+      "battle_type": "Ambush",
+      "defender_size": 88
+    }]
+  
